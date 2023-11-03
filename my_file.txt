@@ -1,1 +1,20 @@
-asdasdas
+git init
+git status
+git push 
+git pull
+git push -u origin <branch_name>/ git push --set-upstream origin <branch_name>
+git add 
+git commit -m <message>
+
+branches:
+git branch <branch_name>
+git checkout 
+git checkout -b <branch_name>
+git branch -d <branch_name>
+
+git remote add origin <ref link>
+
+git remote -v 
+
+git clone 
+
